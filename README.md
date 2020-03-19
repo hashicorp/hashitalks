@@ -6,4 +6,6 @@ Confirmed Talks are 30 minutes long, recorded, and available on YouTube and Hash
 See the project tab for a breakout of all steps and more details in planning HashiTalks. 
 Where able, the project plan is agnostic but as this is modeled after HashiTalks, some details are HashiCorp specific and are encouraged to be applied elsewhere. 
 
+Want to learn more about HashiTalks? Check out this community forum thread: https://discuss.hashicorp.com/t/hashitalks-frequently-asked-questions/4699
+
 If you have any questions or comments, please get in touch with us here: hugs@hashicorp.com
