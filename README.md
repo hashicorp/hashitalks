@@ -1,0 +1,2 @@
+# hashitalks
+HashiTalks project plan 
