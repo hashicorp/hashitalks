@@ -12,4 +12,4 @@ Want to learn more about HashiTalks? Check out this community forum thread: http
 
 If you have any questions or comments, please get in touch with us here: hugs@hashicorp.com
 
-Join your local HashiCorp User Group chapter here: meetup.com/pro/hugs
+Join your local HashiCorp User Group chapter here: www.meetup.com/pro/hugs
