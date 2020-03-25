@@ -11,4 +11,5 @@ Throughout the year, we will be hosting many smaller Regional HashiTalks that wi
 Want to learn more about HashiTalks? Check out this community forum thread: https://discuss.hashicorp.com/t/hashitalks-frequently-asked-questions/4699
 
 If you have any questions or comments, please get in touch with us here: hugs@hashicorp.com
+
 Join your local HashiCorp User Group chapter here: meetup.com/pro/hugs
