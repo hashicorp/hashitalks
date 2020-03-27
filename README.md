@@ -15,4 +15,4 @@ If you have any questions or comments, please get in touch with us here: hugs@ha
 Join your local HashiCorp User Group chapter here: www.meetup.com/pro/hugs
 
 -----
-For those unfamiliar with navigating GitHub, here is the project board: https://github.com/hashicorp/hashitalks/projects/
+For those unfamiliar with navigating GitHub, here is the project board: https://github.com/hashicorp/hashitalks/projects/2
